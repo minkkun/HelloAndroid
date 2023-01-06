@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWord</string>
+    <string name="minh_intro">Hello World! I\'m Minh. This is a girl I really like, because I have no image of myself...</string>
+    <string name="say_hello">Say Hello!</string>
+</resources>
